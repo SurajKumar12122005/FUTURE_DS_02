@@ -55,7 +55,7 @@ This repository contains the work I completed for **Task 2** of my Data Science 
 
 ## 🔗 Connect with Me
 
-Feel free to connect with me or view this project on [LinkedIn](https://www.linkedin.com/in/your-profile).
+Feel free to connect with me or view this project on [LinkedIn](linkedin.com/in/surajkumar1212).
 
 ---
 
